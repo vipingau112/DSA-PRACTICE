@@ -49,4 +49,16 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
