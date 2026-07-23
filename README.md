@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
+| [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -56,9 +58,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
