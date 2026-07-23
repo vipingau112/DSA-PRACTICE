@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -54,15 +55,18 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
