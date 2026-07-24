@@ -9,6 +9,7 @@
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,10 +49,12 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
