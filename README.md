@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
