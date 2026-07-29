@@ -37,6 +37,7 @@
 | ------- |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,16 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
