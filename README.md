@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Enumeration
 |  |
 | ------- |
