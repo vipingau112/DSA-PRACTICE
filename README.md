@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
@@ -82,6 +83,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vipingau112/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Enumeration
@@ -95,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
