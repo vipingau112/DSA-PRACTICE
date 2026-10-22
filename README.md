@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vipingau112/DSA-PRACTICE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vipingau112/DSA-PRACTICE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
